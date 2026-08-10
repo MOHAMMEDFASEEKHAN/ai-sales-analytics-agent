@@ -32,3 +32,15 @@ This project uses an AI Agent workflow built with n8n to transform sales data in
 ## Workflow
 
 User → n8n Chat Trigger → AI Data Analyst Agent → Google Sheets → Analysis → Business Insights → Gmail Report
+## Demo Video
+
+A complete end-to-end demonstration of the AI Sales Analytics & Business Intelligence Agent.
+
+The demo shows:
+
+- Natural-language business queries
+- AI-powered sales analysis
+- Profit and KPI analysis
+- Anomaly detection
+- Business recommendations
+- Executive report generation
