@@ -1,8 +1,0 @@
-.env
-.env.*
-credentials.json
-secrets.json
-*.key
-*.pem
-node_modules/
-__pycache__/
